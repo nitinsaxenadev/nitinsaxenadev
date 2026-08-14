@@ -44,6 +44,17 @@
 <!-- FEATURED PROJECTS SECTION -->
 ### 🚀 Featured Projects
 
+#### 📝 **Interactive JavaScript To-Do Application**
+*Lightweight, prompt-driven task management application implementing core CRUD operations directly within the browser.*
+
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+- **Interactive Workflow Loop:** Built an infinite command cycle executing synchronous browser dialog prompts (`prompt()`) and real-time state logging (`console.log()`).
+- **Data Manipulation & Flow Control:** Implemented full task lifecycle management (`add`, `list`, `delete`, `quit`) leveraging dynamic array methods like `push()` and `splice()`.
+
+---
+
 #### 🎧 **Spotify Web Client Clone**
 *Pixel-perfect frontend replica of the Spotify desktop application focused on modern UI/UX patterns.*
 
@@ -92,31 +103,6 @@
 
 ---
 
-<!-- GITHUB ANALYTICS & ACTIVITY -->
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitinsaxenadev&show_icons=true&theme=synthwave&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitinsaxenadev&layout=compact&theme=synthwave&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=0d1117" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsaxenadev&theme=synthwave&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7" width="97%" alt="GitHub Streak" />
-</div>
-
-#### 🐍 Contribution Activity & Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinsaxenadev/nitinsaxenadev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinsaxenadev/nitinsaxenadev/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/nitinsaxenadev/nitinsaxenadev/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
 <!-- PURPLE WAVY QUOTE CONTAINER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Engineering%20intelligent%20software%20that%20creates%20meaningful%20impact&fontSize=20&fontColor=ffffff" width="100%" alt="Quote Footer"/>
@@ -133,4 +119,3 @@
   <a href="https://github.com/nitinsaxenadev"><img src="https://img.shields.io/badge/GitHub-@nitinsaxenadev-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
   <a href="https://nitinsaxena.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=flat-square&logo=react&logoColor=white"/></a>
 </p>
-----
