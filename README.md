@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Nitin%20Saxena&fontsize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header"/>
   
   <p align="center">
-    <b>🎓 Master of Computer Applications (MCA)</b> @ Sir Chhotu Ram Institute of Engineering & Technology, CCS University<br>
-    <b>🎓 Bachelor of Computer Applications (BCA)</b> @ Pt. Deen Dayal Upadhyay Management College<br>
-    📍 Meerut, Uttar Pradesh, India | 💼 Open to: <b>Full-Stack (MERN) Developer & Data Analyst Roles / Internships</b>
+    <b>🎓 Master of Computer Applications (MCA) </b> @ Sir Chhotu Ram Institute of Engineering & Technology, CCS University<br>
+    <b>🎓 Bachelor of Computer Applications (BCA) </b> @ Pt. Deen Dayal Upadhyay Management College<br>
+    📍 Meerut, Uttar Pradesh, India | 💼 Open to: <b>Full-Stack (MERN) Developer & Data Analyst Roles / Internships </b>
   </p>
 
   <p align="center">
