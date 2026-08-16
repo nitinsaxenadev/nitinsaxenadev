@@ -4,7 +4,7 @@
   
   <p align="center">
     <b>🎓 Master of Computer Applications (MCA) </b> @ Sir Chhotu Ram Institute of Engineering & Technology, CCS University<br>
-    <b>🎓 Bachelor of Computer Applications (BCA) </b> @ Pt. Deen Dayal Upadhyay Management College<br>
+    <b>🎓 Bachelor of Computer Applications (BCA) </b> @ Pt. Deen Dayal Upadhyay Management College <br>
     📍 Meerut, Uttar Pradesh, India | 💼 Open to: <b>Full-Stack (MERN) Developer & Data Analyst Roles / Internships </b>
   </p>
 
