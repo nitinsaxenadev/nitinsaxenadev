@@ -81,10 +81,20 @@
 
 ---
 
+<!-- GITHUB STATS & STREAK SECTION -->
+### 📊 GitHub Activity & Streaks
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinsaxenadev&theme=radical&background=0D1117&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinsaxenadev&show_icons=true&theme=radical&bg_color=0D1117&border_color=8A2BE2&title_color=ffffff&icon_color=8A2BE2&text_color=c9d1d9" alt="GitHub Stats" width="49%"/>
+</div>
+
+---
+
 <!-- EXPERIENCE SECTION -->
 ### 💼 Professional Experience
 
-#### **IMTAC PVT LTD** — *Desktop Support Intern* | Nov 2023 – May 2024
+#### **IMTAC PVT LTD** — *Desktop Support Intern* | Nov 2023 – Dec 2024
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Database Management](https://img.shields.io/badge/DBMS-003B5C?style=flat-square&logo=database&logoColor=white)
